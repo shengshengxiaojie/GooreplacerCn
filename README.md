@@ -1,7 +1,7 @@
 # GooreplacerCn 中文版
 
 [![Build](https://oauth.applinzi.com/State/passed/PASSED/44CC11.svg)](../../)
-[![Size](https://oauth.applinzi.com/Label/size/999KB/b36d41.svg)](../../)
+[![Size](https://oauth.applinzi.com/Label/size/491KB/b36d41.svg)](gooreplacercn.crx.zip)
 [![tag](https://oauth.applinzi.com/Label/tag/v3.10.0/84bf96.svg)](../../releases)
 [![license](https://oauth.applinzi.com/Label/license/MIT/FE7D37.svg)](LICENSE)
 [![languages](https://oauth.applinzi.com/Label/languages/JavaScript/c8b218.svg)](../../search?l=JavaScript)
@@ -31,10 +31,6 @@ GooreplacerCn 最初为解决国内无法访问 Google 资源（Ajax、API等）
 [gooreplacer.gson](gooreplacer.gson)
 
 然后点击更新就好了。如果想自定义规则，可参考 [guides.md](guides.md)
-
-## 实现
-
-在 v1.0 之前采用纯 JavaScript 实现，代码在 [legacy-js-src](legacy-js-src) 目录，在 v2.0 之后采用 [ClojureScript](https://github.com/clojure/clojurescript) + [Reagent](https://github.com/reagent-project/reagent) + [Antd](https://ant.design/) + [React-Bootstrap](https://react-bootstrap.github.io/)，在 [cljs-src](cljs-src) 目录。
 
 ## License
 
