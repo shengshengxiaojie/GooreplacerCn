@@ -47,7 +47,7 @@ GooreplacerCn 最初为解决国内无法访问 Google 资源（Ajax、API等）
 
 ![0](image/04.jpg)
 
-对于只想重定向 Google 资源的同学，可以在`Online Rule List`处填上
+对于只想重定向 Google 资源的同学，可以在 `联机规则列表` 处填上
 
 [gooreplacer.gson](gooreplacer.gson)
 
