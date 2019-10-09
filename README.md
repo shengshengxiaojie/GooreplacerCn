@@ -6,6 +6,8 @@
 [![license](https://oauth.applinzi.com/Label/license/MIT/FE7D37.svg)](LICENSE)
 [![languages](https://oauth.applinzi.com/Label/languages/JavaScript/c8b218.svg)](../../search?l=JavaScript)
 
+<div align=center><img src="image/04.jpg"/></div>
+
 ##### 说明一下，支持原创
 
 本扩展插件并非原创而是通过重新修改和中文翻译得来，源件是 `英文界面` 操作,对于英文不好的国人来说十分不方便 (其实就是我的一个朋友想用，又看不懂英文每次都问我为了摆脱纠缠才修改的) 如果你觉得自己英文不错可以去使用 [原版](https://github.com/jiacai2050/gooreplacer) ，由于时间仓促大多数语句都是翻译软件来完成的，所以部分语句翻译的比较别扭不过相信大家都能理解。
