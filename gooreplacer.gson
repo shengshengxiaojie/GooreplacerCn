@@ -1,0 +1,76 @@
+{
+  "createBy": "https://github.com/yakeing/GooreplacerCn/",
+  "version": "3.10.0",
+  "createAt": "Wed Oct 09 2019 14:43:46 GMT+0800 (中国标准时间)",
+  "redirect-rules": [
+    {
+      "src": "www.google.com/recaptcha",
+      "kind": "wildcard",
+      "dst": "recaptcha.net/recaptcha",
+      "enable": true
+    },
+    {
+      "src": "themes.googleusercontent.com",
+      "dst": "google-themes.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "apis.google.com/js/api.js",
+      "dst": "cdn.jsdelivr.net/gh/jiacai2050/gooreplacer@gh-pages/proxy/api.js",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "apis.google.com/js/plusone.js",
+      "dst": "cdn.jsdelivr.net/gh/jiacai2050/gooreplacer@gh-pages/proxy/plusone.js",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "gerrit.googlesource.com",
+      "dst": "gerrit-googlesource.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "fonts.gstatic.com",
+      "dst": "fonts-gstatic.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": false
+    },
+    {
+      "src": "fonts.googleapis.com",
+      "dst": "fonts.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": false
+    },
+    {
+      "src": "storage.googleapis.com",
+      "dst": "storage-googleapis.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "ajax.googleapis.com",
+      "dst": "ajax.proxy.ustclug.org",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "platform.twitter.com/widgets.js",
+      "dst": "cdn.jsdelivr.net/gh/jiacai2050/gooreplacer@gh-pages/proxy/widgets.js",
+      "kind": "wildcard",
+      "enable": true
+    },
+    {
+      "src": "*.gravatar.com",
+      "kind": "wildcard",
+      "dst": "gravatar.loli.net",
+      "enable": true
+    }
+  ],
+  "cancel-rules": [],
+  "request-headers": [],
+  "response-headers": []
+}
