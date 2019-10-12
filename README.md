@@ -1,6 +1,5 @@
 # GooreplacerCn 中文版
 
-[![Build](https://oauth.applinzi.com/State/passed/PASSED/44CC11.svg)](../../)
 [![Size](https://oauth.applinzi.com/Label/size/491KB/b36d41.svg)](gooreplacercn.crx.zip)
 [![tag](https://oauth.applinzi.com/Label/tag/v3.10.0/84bf96.svg)](../../releases)
 [![license](https://oauth.applinzi.com/Label/license/MIT/FE7D37.svg)](LICENSE)
@@ -35,19 +34,19 @@ GooreplacerCn 最初为解决国内无法访问 Google 资源（Ajax、API等）
 
 > chrome://extensions
 
-![0](image/01.jpg)
+<img src="image/01.jpg"/>
 
 4. 启用开发者模式
 
-![0](image/02.jpg)
+<img src="image/02.jpg"/>
 
 5 加载正在开发的程序包，选择刚才的文件夹就行了
 
-![0](image/03.jpg)
+<img src="image/03.jpg"/>
 
 6 这时候浏览器右上角出现图标点击进入
 
-![0](image/04.jpg)
+<img src="image/04.jpg"/>
 
 对于只想重定向 Google 资源的同学，可以在 `联机规则列表` 处填上
 
